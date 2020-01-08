@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6eafb559-e590-475a-acea-e2253e325878" name="Default Changelist" comment="" />
+    <list default="true" id="6eafb559-e590-475a-acea-e2253e325878" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +23,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="G:\Javarom\IDEArom\springCloud\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="JRebelWorkspace">
     <option name="jrebelEnabledAutocompile" value="true" />
   </component>
@@ -39,6 +48,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1W0gHH0Nldjjvy6kPWkpFYVt6Qy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -152,12 +162,60 @@
       <updated>1578291836411</updated>
       <workItem from="1578291838589" duration="10150000" />
       <workItem from="1578359860192" duration="9748000" />
-      <workItem from="1578446683493" duration="1669000" />
+      <workItem from="1578446683493" duration="2186000" />
     </task>
+    <task id="LOCAL-00001" summary="springcloud学习">
+      <created>1578448741571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578448741571</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="springcloud学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="springcloud学习" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Project_Structure" timestamp="1578294531610">
@@ -176,10 +234,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="306" y="338" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1578301738866" />
-    <state x="402" y="9" key="CommitChangelistDialog2" timestamp="1578448698310">
+    <state x="402" y="9" key="CommitChangelistDialog2" timestamp="1578448736374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="402" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578448698310" />
+    <state x="402" y="9" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1578448736374" />
     <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1578448556967">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
